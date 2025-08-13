@@ -19,10 +19,8 @@ I'm a **Python developer**. I love building tools, solving problems, and sharing
 ## 📈 GitHub Stats
 
 ![Kavishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavishkashyamal&show_icons=true&theme=radical&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavishkashyamal&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=kavishkashyamal&theme=radical)
-
-
 
 ---
 
